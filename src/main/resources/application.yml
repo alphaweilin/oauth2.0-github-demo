@@ -1,0 +1,7 @@
+github:
+  clientId: XXXXXXXX
+  clientSecret: XXXXXXXXX
+  authorizeUrl: https://github.com/login/oauth/authorize
+  redirectUrl : http://localhost:8080/oauth2/callback
+  accessTokenUrl: https://github.com/login/oauth/access_token
+  userInfoUrl: https://api.github.com/user
